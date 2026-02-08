@@ -22,13 +22,13 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Will you do me the honour of being my valentine this year coo bean (and all the years to follow btw hehehehehe)?",                                    // First interaction
+            text: "Will you do me the honour of being my valentine this year coo bean (and all the years to follow btw hehehe)?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "Without a doubt!!!!!"           // Secret hover message
+            secretAnswer: "Without a doubt!!!!! 😘"           // Secret hover message
         },
         second: {
-            text: "Please slide to indicate how much you think I love a coo",                          // For the love meter
+            text: "Please slide to indicate how much you think I love and cherish a coo",                          // For the love meter
             startText: "This much!",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
@@ -42,15 +42,15 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "hmmm you better believe it's more than this but I'm running out of screen hehehehehehe 💞",  // Shows when they go past 5000%
+        extreme: "hmmm you better believe it's many times more than this but I'm fast running out of screen hehehe 💞",  // Shows when they go past 5000%
         high: "you're en root but not at your final destination ➡️",              // Shows when they go past 1000%
         normal: "keep going buddy 🏃🏽‍♀️"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "hehehhehehe I think I may just be the luckiest coo in the whole wide world",
-        message: "p.s. I love you so very much Saachi - you are the greatest gift I have every been given and I am endlessly grateful to have you in my life 😊",
+        title: "heheheeee I think I may just be the luckiest coo in the whole wide world 🐣",
+        message: "p.s. I love you so very much Saachi - you are my greatest blessing and I am endlessly grateful to have you in my life 😊",
         emojis: "🌻❤️💕🐦🦒💐🌞"  // These will bounce around
     },
 
